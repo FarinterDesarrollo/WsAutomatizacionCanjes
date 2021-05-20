@@ -1,0 +1,556 @@
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WsAutomatizacionCanjes.dll.config
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WsAutomatizacionCanjes.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WsAutomatizacionCanjes.pdb
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csc.exe
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csc.exe.config
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csc.rsp
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csi.exe
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csi.exe.config
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csi.rsp
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.AppContext.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Console.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.Compression.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Claims.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.ValueTuple.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\vbc.exe
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\vbc.exe.config
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\vbc.rsp
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\VBCSCompiler.exe
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Win32.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\netstandard.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.AppContext.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.Concurrent.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.NonGeneric.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.Specialized.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Console.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Data.Common.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Contracts.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Debug.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Process.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.StackTrace.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Tools.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.TraceSource.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Tracing.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Drawing.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Dynamic.Runtime.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Globalization.Calendars.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Globalization.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Globalization.Extensions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.Compression.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.Compression.ZipFile.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.IsolatedStorage.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.Pipes.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.Expressions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.Parallel.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.Queryable.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Http.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.NameResolution.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.NetworkInformation.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Ping.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Requests.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Security.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Sockets.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.WebHeaderCollection.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.WebSockets.Client.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.WebSockets.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ObjectModel.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Reflection.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Reflection.Extensions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Reflection.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Resources.Reader.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Resources.ResourceManager.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Resources.Writer.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Extensions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Handles.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.InteropServices.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Numerics.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Json.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Claims.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Csp.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Principal.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.SecureString.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encoding.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encoding.Extensions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.RegularExpressions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Overlapped.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Thread.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.ThreadPool.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Timer.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ValueTuple.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.ReaderWriter.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XDocument.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XmlDocument.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XmlSerializer.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XPath.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XPath.XDocument.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Antlr3.Runtime.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.SqlServer.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Options.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Newtonsoft.Json.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Owin.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\sapnco.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\sapnco_utils.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Buffers.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.Annotations.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Memory.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Http.Formatting.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Numerics.Vectors.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encodings.Web.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Helpers.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.WebHost.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Mvc.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Optimization.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Razor.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Razor.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WebGrease.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.SqlServer.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Options.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Buffers.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Memory.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Numerics.Vectors.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encodings.Web.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Newtonsoft.Json.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Http.Formatting.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Helpers.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.WebHost.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Mvc.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Optimization.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Razor.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Razor.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Antlr3.Runtime.pdb
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Http.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Razor.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csprojAssemblyReference.cache
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csproj.CoreCompileInputs.cache
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csproj.CopyComplete
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.dll
+C:\Users\jnvalladares\Desktop\Carpeta de proyectos farinter 2021\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.pdb
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WsAutomatizacionCanjes.dll.config
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WsAutomatizacionCanjes.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WsAutomatizacionCanjes.pdb
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csc.exe
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csc.exe.config
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csc.rsp
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csi.exe
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csi.exe.config
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\csi.rsp
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.AppContext.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Collections.Immutable.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Console.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.Compression.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.FileSystem.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.IO.Pipes.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.AccessControl.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Claims.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.ValueTuple.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.XPath.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\vbc.exe
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\vbc.exe.config
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\vbc.rsp
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\VBCSCompiler.exe
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\roslyn\VBCSCompiler.exe.config
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Win32.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\netstandard.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.AppContext.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.Concurrent.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.NonGeneric.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Collections.Specialized.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.TypeConverter.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Console.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Data.Common.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Contracts.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Debug.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Process.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.StackTrace.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Tools.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.TraceSource.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.Tracing.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Drawing.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Dynamic.Runtime.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Globalization.Calendars.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Globalization.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Globalization.Extensions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.Compression.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.Compression.ZipFile.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.FileSystem.Watcher.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.IsolatedStorage.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.MemoryMappedFiles.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.Pipes.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.Expressions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.Parallel.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Linq.Queryable.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Http.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.NameResolution.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.NetworkInformation.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Ping.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Requests.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Security.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Sockets.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.WebHeaderCollection.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.WebSockets.Client.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.WebSockets.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ObjectModel.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Reflection.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Reflection.Extensions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Reflection.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Resources.Reader.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Resources.ResourceManager.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Resources.Writer.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Extensions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Handles.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.InteropServices.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Numerics.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Formatters.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Json.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.Serialization.Xml.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Claims.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Algorithms.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Csp.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Encoding.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.Principal.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Security.SecureString.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encoding.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encoding.Extensions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.RegularExpressions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Overlapped.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.Parallel.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Thread.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.ThreadPool.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Timer.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ValueTuple.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.ReaderWriter.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XDocument.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XmlDocument.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XmlSerializer.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XPath.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Xml.XPath.XDocument.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Antlr3.Runtime.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.SqlServer.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Options.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Primitives.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Net.Http.Headers.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Web.Infrastructure.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Newtonsoft.Json.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Owin.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\sapnco.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\sapnco_utils.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Buffers.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.ComponentModel.Annotations.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Memory.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Http.Formatting.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Numerics.Vectors.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encodings.Web.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.Extensions.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Helpers.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.WebHost.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Mvc.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Optimization.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Razor.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Deployment.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Razor.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\WebGrease.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\EntityFramework.SqlServer.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Options.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Extensions.Primitives.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Net.Http.Headers.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Buffers.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Memory.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Numerics.Vectors.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Text.Encodings.Web.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Threading.Tasks.Extensions.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Newtonsoft.Json.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Net.Http.Formatting.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Helpers.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Http.WebHost.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Mvc.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Optimization.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.Razor.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Deployment.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\System.Web.WebPages.Razor.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Antlr3.Runtime.pdb
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Helpers.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Http.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Mvc.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Optimization.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.Razor.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csprojAssemblyReference.cache
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csproj.CoreCompileInputs.cache
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csproj.CopyComplete
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.dll
+C:\Canjes 2021\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.pdb
