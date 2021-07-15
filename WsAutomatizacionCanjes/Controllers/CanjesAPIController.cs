@@ -42,7 +42,20 @@ namespace WsAutomatizacionCanjes.Controllers
             var aStock = okielsaAPIGestor.stock_material(json);
             return Ok(aStock);
         }
+        [HttpPost] //WS de Stock de Canjes Método POST
+        [CacheControl(MaxAge = 4000)]
+        [Route("api/CanjesAPI/ZRFC_GET_STOCK_FOR_CANJES2")]
+        public IHttpActionResult postStockForCanjes2([System.Web.Http.FromBody] JObject value)
+        {
 
+            if (value == null) return BadRequest("Se esperaba un objeto json");
+            dynamic json = value.ToObject<dynamic>();
+            if (json.centro == null || Convert.ToString(json.centro) == "") return BadRequest("Se esperaba un centro válido");
+            if (json.documento == null || Convert.ToString(json.documento) == "") return BadRequest("Se esperaba un documento válida");
+            CanjesGestor okielsaAPIGestor = new CanjesGestor();
+            var aStock = okielsaAPIGestor.stock_material2(json);
+            return Ok(aStock);
+        }
         [HttpPost] //WS de Stock de Canjes Método POST
         [CacheControl(MaxAge = 4000)]
         [Route("api/CanjesAPI/ZRFC_VALIDATE_MATERIAL_INVOICE")]

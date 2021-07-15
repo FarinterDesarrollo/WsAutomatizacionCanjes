@@ -118,6 +118,84 @@ namespace WsAutomatizacionCanjes.Class
             }
             return salida;
         }
+        public string stock_material2(dynamic obj)
+        {
+            DataSet tabla = new DataSet();
+            string salida = "";
+            try
+            {
+                string centro = obj.centro;
+                int documento = obj.documento;
+
+                string destinationconfigname = HttpContext.Current.Application["destinationconfigname"] as string;
+                tabla = ZRFC_GET_STOCK_FOR_CANJES2(destinationconfigname, centro, documento);
+                DataTable t1 = new DataTable(); DataTable t2 = new DataTable(); DataTable t3 = new DataTable();
+                t1 = tabla.Tables[0]; t2 = tabla.Tables[1]; t3 = tabla.Tables[2];
+                List<jsonrfcdevolucioneserror> json = new List<jsonrfcdevolucioneserror>();
+
+                if (t1.Rows.Count > 0)
+                {
+                    for (int i = 0; i <= t1.Rows.Count - 1; i++)
+                    {
+                        json.Add(new jsonrfcdevolucioneserror
+                        {
+                            MATERIAL = t1.Rows[i]["MATERIAL"].ToString(),
+                            CENTRO = t1.Rows[i]["CENTRO"].ToString(),
+                            ALMACEN = t1.Rows[i]["ALMACEN"].ToString(),
+                            LOTE = t1.Rows[i]["LOTE"].ToString(),
+                            FECHA_CAD = t1.Rows[i]["FECHA_CAD"].ToString(),
+                            CANTIDAD = Convert.ToDecimal(t1.Rows[i]["CANTIDAD"].ToString()),
+                            UNIDAD = t1.Rows[i]["UNIDAD"].ToString(),
+                            TYPE = "",
+                            MESSAGE = ""
+                        });
+                    }
+                }
+
+                if (t2.Rows.Count > 0)
+                {
+                    for (int i = 0; i <= t2.Rows.Count - 1; i++)
+                    {
+                        json.Add(new jsonrfcdevolucioneserror
+                        {
+                            MATERIAL = t2.Rows[i]["MATERIAL"].ToString(),
+                            CENTRO = t2.Rows[i]["CENTRO"].ToString(),
+                            ALMACEN = t2.Rows[i]["ALMACEN"].ToString(),
+                            LOTE = t2.Rows[i]["LOTE"].ToString(),
+                            FECHA_CAD = t2.Rows[i]["FECHA_CAD"].ToString(),
+                            CANTIDAD = Convert.ToDecimal(t2.Rows[i]["CANTIDAD"].ToString()),
+                            UNIDAD = t2.Rows[i]["UNIDAD"].ToString(),
+                            TYPE = "",
+                            MESSAGE = ""
+                        });
+                    }
+                }
+
+                if (t3.Rows.Count > 0)
+                {
+                    for (int i = 0; i <= t3.Rows.Count - 1; i++)
+                    {
+                        json.Add(new jsonrfcdevolucioneserror
+                        {
+                            TYPE = t3.Rows[i]["TYPE"].ToString(),
+                            MESSAGE = t3.Rows[i]["MESSAGE"].ToString(),
+                            ID = t3.Rows[i]["ID"].ToString(),
+                            NUMBER = t3.Rows[i]["NUMBER"].ToString(),
+                            MESSAGE_V1 = t3.Rows[i]["MESSAGE_V1"].ToString(),
+                            MESSAGE_V2 = t3.Rows[i]["MESSAGE_V2"].ToString()
+                        });
+                    }
+                }
+
+                salida = JsonConvert.SerializeObject(json).ToString();
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("ERROR " + ex.Message);
+            }
+            return salida;
+        }
         public class jsonrfcdevolucioneserror
         {
             public string MATERIAL { get; set; }
@@ -129,6 +207,11 @@ namespace WsAutomatizacionCanjes.Class
             public string UNIDAD { get; set; }
             public string TYPE { get; set; }
             public string MESSAGE { get; set; }
+            public string ID { get; set; }
+            public string NUMBER { get; set; }
+            public string MESSAGE_V1 { get; set; }
+            public string MESSAGE_V2 { get; set; }
+
         }
         public string validate_material_invoice(dynamic obj)
         {
@@ -396,6 +479,47 @@ namespace WsAutomatizacionCanjes.Class
             }
             return stock;
         }
+        private DataSet ZRFC_GET_STOCK_FOR_CANJES2(string destinationname, string centro, int documento)
+        {
+            Sql osql = new Sql();
+            Globales oglobales = new Globales();
+            DataSet stock = new DataSet();
+            try
+            {
+                if (RfcDestination == null)
+                {
+                    RfcDestination = RfcDestinationManager.GetDestination(destinationname);
+                }
+
+                DataTable tabla = new DataTable();
+                oglobales.query = "select Cod_Prod_SAP,sum(Cantidad_Enviar) AS Cantidad_Enviar,UNIDAD " +
+                                  "from TBL_DetalleSAP where Documento=" + documento + " and Mensaje3='CANJE' group by Cod_Prod_SAP,UNIDAD";
+                tabla = osql.ddt(oglobales.query, Conexion.AutCanjes);
+
+                RfcRepository rfcRepository = RfcDestination.Repository;
+                IRfcFunction rfcfunction = rfcRepository.CreateFunction("ZRFC_GET_STOCK_FOR_CANJES");
+                IRfcTable IT_MATERIALES = rfcfunction.GetTable("IT_MATERIALES");
+                for (int i = 0; i <= tabla.Rows.Count - 1; i++)
+                {
+                    IT_MATERIALES.Append();
+                    IT_MATERIALES.SetValue("MATERIAL", tabla.Rows[i]["Cod_Prod_SAP"]);
+                    IT_MATERIALES.SetValue("CANTIDAD", tabla.Rows[i]["Cantidad_Enviar"]);
+                    IT_MATERIALES.SetValue("UNIDAD", tabla.Rows[i]["UNIDAD"]);
+                }
+
+                rfcfunction.SetValue("IP_CENTRO", centro);
+                rfcfunction.Invoke(RfcDestination);
+                stock.Tables.Add(Convert_table_sap_to_DataTable(rfcfunction.GetTable("ET_LOTES_GOOD")));
+                stock.Tables.Add(Convert_table_sap_to_DataTable(rfcfunction.GetTable("ET_LOTES_APV")));
+                stock.Tables.Add(Convert_table_sap_to_DataTable(rfcfunction.GetTable("ET_MESSAGES")));
+                //EP_MENSAJE = rfcfunction.GetString("ET_MESSAGES");
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("ERROR " + ex.Message);
+            }
+            return stock;
+        }
         private string ZRFC_VALIDATE_MATERIAL_INVOICE(string destinationname, string sociedad, string cliente, string material, string meses)
         {
             string EP_MENSAJE = "";
@@ -454,7 +578,7 @@ namespace WsAutomatizacionCanjes.Class
 
                 IRfcTable it_items = rfcfunction.GetTable("IT_ITEMS_MVT");
 
-                oglobales.query = "select Cod_Prod_SAP,CENTRO,ALMACEN,LOTE,Cantidad_Enviar,UNIDAD,FECHA_CAD from TBL_DetalleSAP where Documento=" + documento + " and Mensaje1='SI_EXISTE' and Mensaje2='SI' and Mensaje3='CANJE'";
+                oglobales.query = "select Cod_Prod_SAP,CENTRO,ALMACEN,LOTE,Cantidad_Enviar,UNIDAD,FECHA_CAD from TBL_DetalleSAP where Documento=" + documento + " and Mensaje1='SI_EXISTE' and Mensaje2='SI' and Mensaje3='CANJE' and Estado='A'";
                 DataTable tabla = osql.ddt(oglobales.query, Conexion.AutCanjes);
 
                 for(int zz=0;zz<=tabla.Rows.Count - 1; zz++) 

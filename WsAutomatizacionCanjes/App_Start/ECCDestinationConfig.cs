@@ -31,6 +31,8 @@ public class ECCDestinationConfig : IDestinationConfiguration
                 parms.Add(RfcConfigParameters.SystemID, "QAS");
                 parms.Add(RfcConfigParameters.User, "INTERFACESAP");
                 parms.Add(RfcConfigParameters.Password, "1nt3rf4c3sF4r!n73r");
+                //parms.Add(RfcConfigParameters.User, "risanchez");
+                //parms.Add(RfcConfigParameters.Password, "karola63");
                 parms.Add(RfcConfigParameters.Client, "300");
                 parms.Add(RfcConfigParameters.Language, "ES");
                 parms.Add(RfcConfigParameters.PoolSize, "5");
