@@ -261,7 +261,9 @@ namespace WsAutomatizacionCanjes.Class
                         ep_material_document = Convert.ToString(tabla.Rows[i]["EP_MATERIAL_DOCUMENT"]),
                         ep_document_year = Convert.ToString(tabla.Rows[i]["EP_DOCUMENT_YEAR"]),
                         type = Convert.ToString(tabla.Rows[i]["TYPE"]),
-                        message = Convert.ToString(tabla.Rows[i]["MESSAGE"])
+                        message = Convert.ToString(tabla.Rows[i]["MESSAGE"]),
+                        id = Convert.ToString(tabla.Rows[i]["ID"]),
+                        number = Convert.ToString(tabla.Rows[i]["NUMBER"])
                     });
                 }
 
@@ -280,6 +282,9 @@ namespace WsAutomatizacionCanjes.Class
             public string ep_document_year { get; set; }
             public string type { get; set; }
             public string message { get; set; }
+            public string id { get; set; }
+            public string number { get; set; }
+
         }
         public DataTable ConvertToDotNetTablesNOTTablesIn(IRfcTable RFCTable)
         {
@@ -568,6 +573,8 @@ namespace WsAutomatizacionCanjes.Class
                 string fecha_contabilizacion = osql.get(oglobales.query, Conexion.AutCanjes);
                 oglobales.query = "select FORMAT(Fecha,'yyyMMdd') as Fecha from TBL_EncabezadoSAP where Documento=" + documento;
                 string fecha_documento = osql.get(oglobales.query, Conexion.AutCanjes);
+                oglobales.query = "select Cod_Cliente_SAP from TBL_EncabezadoSAP where Documento=" + documento;
+                string cliente = osql.get(oglobales.query, Conexion.AutCanjes);
                 //1 - Fin Área de consultas
 
                 IRfcFunction rfcfunction = rfcRepository.CreateFunction("ZRFC_GOODS_MOVEMENT_CANJES");
@@ -590,6 +597,7 @@ namespace WsAutomatizacionCanjes.Class
                     it_items.SetValue("ALMACEN", tabla.Rows[zz]["ALMACEN"]);
                     it_items.SetValue("LOTE", tabla.Rows[zz]["LOTE"]);
                     it_items.SetValue("PROVEEDOR", proveedor);
+                    it_items.SetValue("CLIENTE", cliente);
                     it_items.SetValue("CANTIDAD", Convert.ToDecimal(tabla.Rows[zz]["Cantidad_Enviar"]));
                     it_items.SetValue("UNIDAD", tabla.Rows[zz]["UNIDAD"]);
                     it_items.SetValue("RECEPTOR", receptor);
@@ -606,6 +614,8 @@ namespace WsAutomatizacionCanjes.Class
                 TABLA_SALIDA.Columns.Add("EP_DOCUMENT_YEAR");
                 TABLA_SALIDA.Columns.Add("TYPE");
                 TABLA_SALIDA.Columns.Add("MESSAGE");
+                TABLA_SALIDA.Columns.Add("ID");
+                TABLA_SALIDA.Columns.Add("NUMBER");
 
                 if (EP_MATERIAL_DOCUMENT == null)
                 {

@@ -23,8 +23,8 @@ namespace WsAutomatizacionCanjes
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             //APERTURA CONECCION 
-            string destinationconfigname = "QA";
-            //string destinationconfigname = "PRD";
+            //string destinationconfigname = "QA";
+            string destinationconfigname = "PRD";
             bool resultado = false;
             Application["destinationconfigname"] = destinationconfigname;
             IDestinationConfiguration destinationConfiguration = null;
