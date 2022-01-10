@@ -88,5 +88,21 @@ namespace WsAutomatizacionCanjes.Controllers
             var aMigo = okielsaAPIGestor.Consumo_MIGO(json);
             return Ok(aMigo);
         }
+
+        [HttpPost]
+        //WS de Stock de Canjes Método POST
+        [CacheControl(MaxAge = 4000)]
+        [Route("api/CanjesAPI/ZRFC_GET_DATOS_DOC_MATERIAL")]
+        public IHttpActionResult postGet_Datos_Doc_Material([System.Web.Http.FromBody] JObject value)
+        {
+
+            if (value == null) return BadRequest("Se esperaba un objeto json");
+            dynamic json = value.ToObject<dynamic>();
+            if (json.documento == null || Convert.ToString(json.documento) == "") return BadRequest("Se esperaba un número de documento válido");
+            if (json.year == null || Convert.ToString(json.year) == "") return BadRequest("Se esperaba un año válido");
+            CanjesGestor okielsaAPIGestor = new CanjesGestor();
+            var aDoc_Material = okielsaAPIGestor.datos_doc_material(json);
+            return Ok(aDoc_Material);
+        }
     }
 }
