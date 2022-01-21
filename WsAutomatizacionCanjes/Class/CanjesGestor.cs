@@ -286,7 +286,85 @@ namespace WsAutomatizacionCanjes.Class
             public string number { get; set; }
 
         }
-        public DataTable ConvertToDotNetTablesNOTTablesIn(IRfcTable RFCTable)
+
+        public List<Datos_Doc_Material> datos_doc_material(dynamic obj) 
+        {
+            List<Datos_Doc_Material> salida = new List<Datos_Doc_Material>();
+            DataTable tabla = new DataTable();
+
+            try
+            {
+                string documento = obj.documento;
+                string year = obj.year;
+                string destinationconfigname = HttpContext.Current.Application["destinationconfigname"] as string;
+                tabla = ZRFC_GET_DATOS_DOC_MATERIAL(destinationconfigname, documento, year);
+
+                if (tabla.Rows.Count > 0)
+                {
+                    for (int i = 0; i <= tabla.Rows.Count - 1; i++)
+                    {
+
+                        if(tabla.Rows[i]["E_MENSAJE"].ToString() != "") 
+                        {
+                            salida.Add(new Datos_Doc_Material
+                            {
+                                e_mensaje = tabla.Rows[i]["E_MENSAJE"].ToString()
+                            });
+                            return salida;
+                        }
+                        else 
+                        {
+                            salida.Add(new Datos_Doc_Material
+                            {
+                                e_mensaje = tabla.Rows[i]["E_MENSAJE"].ToString(),
+                                num_pedido = tabla.Rows[i]["NUM_PEDIDO"].ToString(),
+                                num_ref_salida = tabla.Rows[i]["NUM_REF_SALIDA"].ToString(),
+                                gui_remision = tabla.Rows[i]["GUI_REMISION"].ToString(),
+                                cai = tabla.Rows[i]["CAI"].ToString(),
+                                valor_neto = Convert.ToDecimal(tabla.Rows[i]["VALOR_NETO"].ToString()),
+                                doc_anulacion = tabla.Rows[i]["DOC_ANULACION"].ToString(),
+                                moneda = tabla.Rows[i]["MONEDA"].ToString(),
+                                proveedor = tabla.Rows[i]["PROVEEDOR"].ToString(),
+                                almacen = tabla.Rows[i]["ALMACEN"].ToString(),
+                                org_compras = tabla.Rows[i]["ORG_COMPRAS"].ToString()
+                            });
+                        }
+                    }
+                }
+            }
+            catch(Exception ex) 
+            {
+                List<Datos_Doc_Material> error = new List<Datos_Doc_Material>();
+                error.Add(new Datos_Doc_Material
+                {
+                    e_mensaje = ex.Message
+                });
+                return error;
+            }
+            return salida;
+        }
+
+        public class Mensaje_Error 
+        { 
+            public string mensaje { get; set; }
+        }
+        public class Datos_Doc_Material
+        {
+            public string e_mensaje { get; set; }
+            public string num_pedido { get; set; }
+            public string num_ref_salida { get; set; }
+            public string gui_remision { get; set; }
+            public string cai { get; set; }
+            public decimal valor_neto { get; set; }
+            public string doc_anulacion { get; set; }
+            public string moneda { get; set; }
+            public string proveedor { get; set; }
+            public string almacen { get; set; }
+            public string org_compras { get; set; }
+
+        }
+
+        public DataTable ConvertToDotNetTables(IRfcTable RFCTable)
         {
             DataTable dtTable = new DataTable();
 
@@ -387,7 +465,23 @@ namespace WsAutomatizacionCanjes.Class
             }
             return table_return;
         }
+        public DataTable ConvertirEstructura(IRfcStructure rfcestructura) //convertir  RFCStructure a un datatable
+        {
+            DataTable rowTable = new DataTable();
+            for (int i = 0; i <= rfcestructura.ElementCount - 1; i++)
+            {
+                rowTable.Columns.Add(rfcestructura.GetElementMetadata(i).Name);
+            }
 
+            DataRow row = rowTable.NewRow();
+
+            for (int j = 0; j <= rfcestructura.ElementCount - 1; j++)
+            {
+                row[j] = rfcestructura.GetValue(j);
+            }
+            rowTable.Rows.Add(row);
+            return rowTable;
+        }
         public Type GetDataType(RfcDataType rfcDataType)
         {
             switch (rfcDataType)
@@ -419,6 +513,7 @@ namespace WsAutomatizacionCanjes.Class
 
             }
         }
+
         // ************************* Fin Funciones y Procedimientos ****************************
 
         // ************************* Sección RFC ****************************
@@ -646,5 +741,69 @@ namespace WsAutomatizacionCanjes.Class
             return TABLA_SALIDA;
         }
 
+        public DataTable ZRFC_GET_DATOS_DOC_MATERIAL(string destinationname, string documento, string year)
+        {
+            DataSet DATA = new DataSet();
+            DataTable TABLA_SALIDA = new DataTable();
+            string E_MENSAJE = "";
+
+            try
+            {
+                if (RfcDestination == null)
+                {
+                    RfcDestination = RfcDestinationManager.GetDestination(destinationname);
+                }
+                RfcRepository rfcRepository = RfcDestination.Repository;
+
+                IRfcFunction rfcfunction = rfcRepository.CreateFunction("ZRFC_GET_DATOS_DOC_MATERIAL");
+                rfcfunction.SetValue("I_MBLNR", documento);
+                rfcfunction.SetValue("I_MJAHR", year);
+                rfcfunction.Invoke(RfcDestination);
+                IRfcStructure ES_DATOS = rfcfunction.GetStructure("ES_DATOS");
+                E_MENSAJE = rfcfunction.GetString("E_MENSAJE");
+                DATA.Tables.Add(ConvertirEstructura(ES_DATOS));
+
+                TABLA_SALIDA.Columns.Add("E_MENSAJE");
+                TABLA_SALIDA.Columns.Add("NUM_PEDIDO");
+                TABLA_SALIDA.Columns.Add("NUM_REF_SALIDA");
+                TABLA_SALIDA.Columns.Add("GUI_REMISION");
+                TABLA_SALIDA.Columns.Add("CAI");
+                TABLA_SALIDA.Columns.Add("VALOR_NETO");
+                TABLA_SALIDA.Columns.Add("DOC_ANULACION");
+                TABLA_SALIDA.Columns.Add("MONEDA");
+                TABLA_SALIDA.Columns.Add("PROVEEDOR");
+                TABLA_SALIDA.Columns.Add("ALMACEN");
+                TABLA_SALIDA.Columns.Add("ORG_COMPRAS");
+
+                if (E_MENSAJE == "")
+                {
+                    for (int n = 0; n <= DATA.Tables[0].Rows.Count - 1; n++)
+                    {
+                        TABLA_SALIDA.Rows.Add(
+                            E_MENSAJE,
+                            DATA.Tables[0].Rows[n]["NUM_PEDIDO"],
+                            DATA.Tables[0].Rows[n]["NUM_REF_SALIDA"],
+                            DATA.Tables[0].Rows[n]["GUI_REMISION"],
+                            DATA.Tables[0].Rows[n]["CAI"],
+                            DATA.Tables[0].Rows[n]["VALOR_NETO"],
+                            DATA.Tables[0].Rows[n]["DOC_ANULACION"],
+                            DATA.Tables[0].Rows[n]["MONEDA"],
+                            DATA.Tables[0].Rows[n]["PROVEEDOR"],
+                            DATA.Tables[0].Rows[n]["ALMACEN"],
+                            DATA.Tables[0].Rows[n]["ORG_COMPRAS"]
+                            );
+                    }
+                }
+                else 
+                {
+                    TABLA_SALIDA.Rows.Add(E_MENSAJE, "", "", "", "", "", "", "", "", "", "");
+                }
+            }
+            catch(Exception ex) 
+            {
+                throw new Exception("ERROR " + ex.Message);
+            }
+            return TABLA_SALIDA;
+        }
     }
 }

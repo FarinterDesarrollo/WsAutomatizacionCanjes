@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="AUTCANJES-Web.config Connection String" description="AUTCANJES Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=172.16.2.125;Initial Catalog=AUTCANJES;User ID=sateliteAdmin;Password=K!3l$a#2018" tags="SqlConnectionString">
+  <parameter name="AUTCANJES-Web.config Connection String" description="AUTCANJES Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=172.16.2.126;Initial Catalog=AUTCANJES;User ID=sateliteAdmin;Password=K!3l$a#2018" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="C:\\Users\\Soporte\\source\\repos\\WsAutomatizacionCanjes\\WsAutomatizacionCanjes\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AUTCANJES']/@connectionString" />
   </parameter>
 </parameters>
