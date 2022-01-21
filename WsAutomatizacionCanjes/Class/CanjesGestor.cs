@@ -30,7 +30,7 @@ namespace WsAutomatizacionCanjes.Class
                 string destinationconfigname = HttpContext.Current.Application["destinationconfigname"] as string;
                 salida = ZRFC_VALIDATE_MATERIAL(destinationconfigname, material);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw new Exception("ERROR " + ex.Message);
             }
@@ -252,12 +252,13 @@ namespace WsAutomatizacionCanjes.Class
                 string receptor = obj.receptor;
 
                 string destinationconfigname = HttpContext.Current.Application["destinationconfigname"] as string;
-                tabla = ZRFC_GOODS_MOVEMENT_CANJES(destinationconfigname, documento,proveedor,receptor);
+                tabla = ZRFC_GOODS_MOVEMENT_CANJES(destinationconfigname, documento, proveedor, receptor);
                 List<Detalle_Migo> json = new List<Detalle_Migo>();
 
                 for (int i = 0; i <= tabla.Rows.Count - 1; i++)
                 {
-                    json.Add(new Detalle_Migo {
+                    json.Add(new Detalle_Migo
+                    {
                         ep_material_document = Convert.ToString(tabla.Rows[i]["EP_MATERIAL_DOCUMENT"]),
                         ep_document_year = Convert.ToString(tabla.Rows[i]["EP_DOCUMENT_YEAR"]),
                         type = Convert.ToString(tabla.Rows[i]["TYPE"]),
@@ -276,8 +277,8 @@ namespace WsAutomatizacionCanjes.Class
             return salida;
         }
 
-        public class Detalle_Migo 
-        { 
+        public class Detalle_Migo
+        {
             public string ep_material_document { get; set; }
             public string ep_document_year { get; set; }
             public string type { get; set; }
@@ -683,7 +684,7 @@ namespace WsAutomatizacionCanjes.Class
                 oglobales.query = "select Cod_Prod_SAP,CENTRO,ALMACEN,LOTE,Cantidad_Enviar,UNIDAD,FECHA_CAD from TBL_DetalleSAP where Documento=" + documento + " and Mensaje1='SI_EXISTE' and Mensaje2='SI' and Mensaje3='CANJE' and Estado='A'";
                 DataTable tabla = osql.ddt(oglobales.query, Conexion.AutCanjes);
 
-                for(int zz=0;zz<=tabla.Rows.Count - 1; zz++) 
+                for (int zz = 0; zz <= tabla.Rows.Count - 1; zz++)
                 {
                     //2 - Área de consultas
                     it_items.Append();
@@ -741,6 +742,78 @@ namespace WsAutomatizacionCanjes.Class
             return TABLA_SALIDA;
         }
 
+<<<<<<< HEAD
+=======
+
+        //agregado por daniela
+        public string datos_doc_material(dynamic obj)
+        {
+            DataTable tabla = new DataTable();
+            string salida = "";
+
+            try
+            {
+                string documento = obj.documento;
+                string year = obj.year;
+                string destinationconfigname = HttpContext.Current.Application["destinationconfigname"] as string;
+                tabla = ZRFC_GET_DATOS_DOC_MATERIAL(destinationconfigname, documento, year);
+
+                List<Datos_Doc_Material> json = new List<Datos_Doc_Material>();
+                List<jsonrfcdevolucioneserror2> error = new List<jsonrfcdevolucioneserror2>();
+
+                if (tabla.Rows.Count > 0)
+                {
+                    for (int i = 0; i <= tabla.Rows.Count - 1; i++)
+                    {
+
+                        if (tabla.Rows[i]["E_MENSAJE"].ToString() != "")
+                        {
+                            error.Add(new jsonrfcdevolucioneserror2
+                            {
+                                MATERIAL = tabla.Rows[i]["E_MENSAJE"].ToString()
+                            });
+                            salida = JsonConvert.SerializeObject(error).ToString();
+                            return salida;
+                        }
+                        else
+                        {
+                            json.Add(new Datos_Doc_Material
+                            {
+                                e_mensaje = tabla.Rows[i]["E_MENSAJE"].ToString(),
+                                num_pedido = tabla.Rows[i]["NUM_PEDIDO"].ToString(),
+                                num_ref_salida = tabla.Rows[i]["NUM_REF_SALIDA"].ToString(),
+                                gui_remision = tabla.Rows[i]["GUI_REMISION"].ToString(),
+                                cai = tabla.Rows[i]["CAI"].ToString(),
+                                valor_neto = Convert.ToDecimal(tabla.Rows[i]["VALOR_NETO"].ToString()),
+                                doc_anulacion = tabla.Rows[i]["DOC_ANULACION"].ToString(),
+                                moneda = tabla.Rows[i]["MONEDA"].ToString(),
+                                proveedor = tabla.Rows[i]["PROVEEDOR"].ToString(),
+                                almacen = tabla.Rows[i]["ALMACEN"].ToString(),
+                                org_compras = tabla.Rows[i]["ORG_COMPRAS"].ToString()
+                            });
+                        }
+                    }
+                }
+
+                salida = JsonConvert.SerializeObject(json).ToString();
+            }
+            catch (Exception ex)
+            {
+                List<jsonrfcdevolucioneserror2> error = new List<jsonrfcdevolucioneserror2>();
+                error.Add(new jsonrfcdevolucioneserror2
+                {
+                    MATERIAL = ex.Message
+                });
+                salida = JsonConvert.SerializeObject(error).ToString();
+                return salida;
+            }
+            return salida;
+        }
+
+
+
+
+>>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
         public DataTable ZRFC_GET_DATOS_DOC_MATERIAL(string destinationname, string documento, string year)
         {
             DataSet DATA = new DataSet();
@@ -754,11 +827,22 @@ namespace WsAutomatizacionCanjes.Class
                     RfcDestination = RfcDestinationManager.GetDestination(destinationname);
                 }
                 RfcRepository rfcRepository = RfcDestination.Repository;
+<<<<<<< HEAD
 
                 IRfcFunction rfcfunction = rfcRepository.CreateFunction("ZRFC_GET_DATOS_DOC_MATERIAL");
                 rfcfunction.SetValue("I_MBLNR", documento);
                 rfcfunction.SetValue("I_MJAHR", year);
                 rfcfunction.Invoke(RfcDestination);
+=======
+                //nombre de como se llama la api
+                IRfcFunction rfcfunction = rfcRepository.CreateFunction("ZRFC_GET_DATOS_DOC_MATERIAL");
+                //los campos que se mandan 
+                rfcfunction.SetValue("I_MBLNR", documento);
+                rfcfunction.SetValue("I_MJAHR", year);
+                //se juntan para la llamada los datos
+                rfcfunction.Invoke(RfcDestination);
+
+>>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
                 IRfcStructure ES_DATOS = rfcfunction.GetStructure("ES_DATOS");
                 E_MENSAJE = rfcfunction.GetString("E_MENSAJE");
                 DATA.Tables.Add(ConvertirEstructura(ES_DATOS));
@@ -794,16 +878,83 @@ namespace WsAutomatizacionCanjes.Class
                             );
                     }
                 }
+<<<<<<< HEAD
                 else 
+=======
+                else
+>>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
                 {
                     TABLA_SALIDA.Rows.Add(E_MENSAJE, "", "", "", "", "", "", "", "", "", "");
                 }
             }
+<<<<<<< HEAD
             catch(Exception ex) 
+=======
+            catch (Exception ex)
+>>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
             {
                 throw new Exception("ERROR " + ex.Message);
             }
             return TABLA_SALIDA;
         }
+<<<<<<< HEAD
+=======
+        //para convetir la tabla
+        public DataTable ConvertirEstructura(IRfcStructure rfcestructura) //convertir  RFCStructure a un datatable
+        {
+            DataTable rowTable = new DataTable();
+            for (int i = 0; i <= rfcestructura.ElementCount - 1; i++)
+            {
+                rowTable.Columns.Add(rfcestructura.GetElementMetadata(i).Name);
+            }
+
+            DataRow row = rowTable.NewRow();
+
+            for (int j = 0; j <= rfcestructura.ElementCount - 1; j++)
+            {
+                row[j] = rfcestructura.GetValue(j);
+            }
+            rowTable.Rows.Add(row);
+            return rowTable;
+        }
+
+
+
+        public class jsonrfcdevolucioneserror2
+        {
+            public string MATERIAL { get; set; }
+            public string CENTRO { get; set; }
+            public string ALMACEN { get; set; }
+            public string LOTE { get; set; }
+            public string FECHA_CAD { get; set; }
+            public decimal CANTIDAD { get; set; }
+            public string UNIDAD { get; set; }
+            public string TYPE { get; set; }
+            public string MESSAGE { get; set; }
+            public string ID { get; set; }
+            public string NUMBER { get; set; }
+            public string MESSAGE_V1 { get; set; }
+            public string MESSAGE_V2 { get; set; }
+
+        }
+
+        public class Datos_Doc_Material
+        {
+            public string e_mensaje { get; set; }
+            public string num_pedido { get; set; }
+            public string num_ref_salida { get; set; }
+            public string gui_remision { get; set; }
+            public string cai { get; set; }
+            public decimal valor_neto { get; set; }
+            //public string valor_neto2 { get; set; }
+            public string doc_anulacion { get; set; }
+            public string moneda { get; set; }
+            public string proveedor { get; set; }
+            public string almacen { get; set; }
+            public string org_compras { get; set; }
+            //public string MESSAGE_V2 { get; set; }
+
+        }
+>>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
     }
 }
