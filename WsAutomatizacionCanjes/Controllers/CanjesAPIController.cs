@@ -89,12 +89,7 @@ namespace WsAutomatizacionCanjes.Controllers
             return Ok(aMigo);
         }
 
-<<<<<<< HEAD
         [HttpPost] //WS de Stock de Canjes Método POST
-=======
-        [HttpPost]
-        //WS de Stock de Canjes Método POST
->>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
         [CacheControl(MaxAge = 4000)]
         [Route("api/CanjesAPI/ZRFC_GET_DATOS_DOC_MATERIAL")]
         public IHttpActionResult postGet_Datos_Doc_Material([System.Web.Http.FromBody] JObject value)
@@ -106,7 +101,7 @@ namespace WsAutomatizacionCanjes.Controllers
             if (json.year == null || Convert.ToString(json.year) == "") return BadRequest("Se esperaba un año válido");
             CanjesGestor okielsaAPIGestor = new CanjesGestor();
             var aDoc_Material = okielsaAPIGestor.datos_doc_material(json);
-<<<<<<< HEAD
+
             try
             {
                 return Ok(aDoc_Material);
@@ -115,9 +110,8 @@ namespace WsAutomatizacionCanjes.Controllers
             {
                 return BadRequest(ex.Message);
             }
-=======
+
             return Ok(aDoc_Material);
->>>>>>> 3475d867a6b4f6c32f18975f698380f856b9cc82
         }
     }
 }
