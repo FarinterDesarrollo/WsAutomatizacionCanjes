@@ -795,7 +795,7 @@ namespace WsAutomatizacionCanjes.Class
                             DATA.Tables[0].Rows[n]["MONEDA"],
                             DATA.Tables[0].Rows[n]["PROVEEDOR"],
                             DATA.Tables[0].Rows[n]["ALMACEN"],
-                            DATA.Tables[0].Rows[n]["ORG_COMPRAS"]
+                            DATA.Tables[0].Rows[n]["SOCIEDAD"]
                             );
                     }
                 }

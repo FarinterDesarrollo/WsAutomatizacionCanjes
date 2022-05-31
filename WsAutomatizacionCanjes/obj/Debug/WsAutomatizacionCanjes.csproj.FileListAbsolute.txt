@@ -1103,6 +1103,7 @@ C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\
 C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.resources.dll
 C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csprojAssemblyReference.cache
 C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csproj.CoreCompileInputs.cache
 C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.csproj.CopyComplete
 C:\Users\Soporte\source\repos\WsAutomatizacionCanjes\WsAutomatizacionCanjes\obj\Debug\WsAutomatizacionCanjes.dll
